@@ -8,6 +8,8 @@ public class Delete {
 
 	  System.out.println(Math.addExact(5, 10));
 
+	  System.out.println("Update the GIT");
+
 	}
 
 }
